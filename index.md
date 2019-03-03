@@ -5,6 +5,8 @@
 layout: page
 ---
 
+{% include gtag.html %}
+
 ## <center>Automated text message service for retrieving avalanche forecasts</center>
 
 <table style="border: none">
