@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+
+s3_website push
