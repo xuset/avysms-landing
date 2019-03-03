@@ -11,7 +11,7 @@ layout: page
   <tbody>
     <tr>
       <td style="border: none">
-        <h3>Get Started</h3>
+        <h3>Get the Latest Forecast</h3>
         <p>
           Text <strong>720-707-0970</strong> with your Colorado region to receive the
           most up to date avalanche forecast
