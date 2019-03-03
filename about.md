@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I started AVYSMS from a problem that I had in the Colorado backcountry. I wanted the latest avalanche forecast, but some of the times I did not have enough cell service in order to retrieve the webpage of the CAIC forecast. This was especially problematic during multi-day backcountry trips. Now AVYSMS allows everyone to retrieve the latest avalanche forecast even if they have bad cell reception. And with satellite devices that allow sending and receiving text messages, AVYSMS is available almost anywhere.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This is a new service that is sure to have some problems. If you encounter any problems or have any feedback, please email me. You can find my email at the bottom of this page.
