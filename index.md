@@ -54,4 +54,14 @@ layout: page
   </tbody>
 </table>
 
+<h3>Text 720-707-0970</h3>
+<p>
+  Text your region to this number to receive the avalanche forecast. Add the word
+  <strong>"short"</strong> to receive shortened forecasts that works better for satellite
+  messengers.
+</p>
+<br>
+<br>
+<p>
 AVYSMS is powered by the information from the <a href="https://avalanche.state.co.us/" target="_black">Colorado Avalanche Information Center</a>. There is no affiliation between AVYSMS and the CAIC.
+</p>
