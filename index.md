@@ -36,6 +36,21 @@ layout: page
         <img src="assets/iphonemessage.png" />
       </td>
     </tr>
+    <tr style="background-color: transparent">
+      <td style="border: none">
+        <h3>Use With Satellite Text Messengers</h3>
+        <p>
+          Retrieve the latest avalanche forecast on your InReach, Spot X, or other
+          satellite text messenger
+        </p>
+        <p>
+          Send the word <strong>"short"</strong> along with your region to receive shortened text messages that are easier to view on these satellite devices
+        </p>
+      </td>
+      <td style="border: none">
+        <img src="assets/spotinreach.png" />
+      </td>
+    </tr>
   </tbody>
 </table>
 
