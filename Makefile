@@ -1,4 +1,4 @@
-.PHONY: install build deploy serve
+.PHONY: install build deploy serve require_clean_git
 
 
 install:
@@ -10,10 +10,12 @@ build:
 	jekyll build
 
 
-deploy: build
+deploy: require_clean_git build
 	s3_website push
 
 
 serve:
 	jekyll serve
 
+require_clean_git:
+	git diff-index --quiet HEAD -- # Git repo is not clean
