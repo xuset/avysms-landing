@@ -33,7 +33,7 @@ layout: page
         </p>
       </td>
       <td style="border: none">
-        <img src="assets/iphonemessage.png" />
+        <img src="assets/avysms.png" />
       </td>
     </tr>
     <tr style="background-color: transparent">
@@ -42,9 +42,6 @@ layout: page
         <p>
           Retrieve the latest avalanche forecast on your InReach, Spot X, or other
           satellite text messenger
-        </p>
-        <p>
-          Send the word <strong>"short"</strong> along with your region to receive shortened text messages that are easier to view on these satellite devices
         </p>
       </td>
       <td style="border: none">
@@ -56,9 +53,7 @@ layout: page
 
 <h3>Text 720-707-0970</h3>
 <p>
-  Text your region to this number to receive the avalanche forecast. Add the word
-  <strong>"short"</strong> to receive shortened forecasts that works better for satellite
-  messengers.
+  Text your region to this number to receive the avalanche forecast.
 </p>
 <br>
 <br>
