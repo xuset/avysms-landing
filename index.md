@@ -43,6 +43,10 @@ layout: page
           Retrieve the latest avalanche forecast on your InReach, Spot X, or other
           satellite text messenger
         </p>
+        <p>
+          If you are using an InReach device, be sure to read how to
+          <a href="/inreach/">use avysms with an InReach device</a>.
+        </p>
       </td>
       <td style="border: none">
         <img src="assets/spotinreach.png" />
